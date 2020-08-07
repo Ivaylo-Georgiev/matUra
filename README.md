@@ -1,11 +1,11 @@
-# 📝 matUraBG
+# 📝 matUra
 
 ![Home](https://github.com/Ivaylo-Georgiev/matUraBG/blob/master/home.PNG)
 
 ## Installation
 
 ### Clone
-Clone this repo to your local machine using `https://github.com/Ivaylo-Georgiev/matUraBG.git` 
+Clone this repo to your local machine using `https://github.com/Ivaylo-Georgiev/matUra.git` 
 
 ## Features
 ### Shuffled Questions
